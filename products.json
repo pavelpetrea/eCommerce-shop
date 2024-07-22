@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"link": "https://www.thedistiller.gr/pota/apperitivo/luxardo-spritz-3x200ml",
+		"name": "Luxardo Spritz 3x200ml",
+		"image": "public/assets/firstBottle.jpg",
+        "original_price": 8.18,
+		"discounted_price": 7.61
+	},
+	{
+		"id": 2,
+		"link": "https://www.thedistiller.gr/pota/ready-to-drink/luxardo-limoncello-spritz-3x200ml",
+		"name": "Luxardo Limoncello Spritz 3x200ml",
+		"image": "public/assets/secondBottle.jpg",
+        "original_price": 9.15,
+		"discounted_price": 8.22
+	},
+	{
+		"id": 3,
+		"link": "https://www.thedistiller.gr/pota/campari-soda-rtd-98ml-5-temachia",
+		"name": "Campari Soda RTD 98ml",
+		"image": "public/assets/thirdBottle.jpg",
+        "original_price": 9.05,
+		"discounted_price": 8.42
+	},
+	{
+		"id": 4,
+		"link": "https://www.thedistiller.gr/pota/liker/tia-maria-liquer-700ml",
+		"name": "Tia Maria liquer 700ml",
+		"image": "public/assets/fourthBottle.jpg",
+        "original_price": 22.00,
+		"discounted_price": 20.13
+	},
+	{
+		"id": 5,
+		"link": "https://www.thedistiller.gr/pota/quiquiriqui-mezcal-espadin-700ml",
+		"name": "Quiquiriqui Mezcal Espadin 700ml",
+		"image": "public/assets/fifthBottle.jpg",
+        "original_price": 55.66,
+		"discounted_price": 52.042
+	},
+	{
+		"id": 6,
+		"link": "https://www.thedistiller.gr/pota/martin-millers-original-gin-gift-pack-700ml",
+		"name": "Martin Miller's Original Gin Gift Pack 700ml - Special 2024 Edition for Connoisseurs - Limited Series in Unique Packaging",
+		"image": "public/assets/fifthBottle.jpg",
+        "original_price": 34.15,
+		"discounted_price": 31.76
+	}
+]
